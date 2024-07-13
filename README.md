@@ -28,10 +28,8 @@ To run the code provided in this repository, follow these steps:
 # Acknowledgements
 
 The code used in this project is adapted from the tutorial available on YouTube. Credit goes to the original creator for providing valuable insights into web scraping techniques.
-https://www.youtube.com/watch?v=d4iz2NrZVRg
-https://github.com/python-scrapy-playbook/basic-scrapy-project
+   ''' https://www.youtube.com/watch?v=d4iz2NrZVRg
+   ''' https://github.com/python-scrapy-playbook/basic-scrapy-project
 
-# Disclaimer
 
-Please use this code responsibly and ensure compliance with LinkedIn's terms of service and any legal requirements related to web scraping and data privacy.
-```
+
