@@ -26,7 +26,7 @@ To run the code provided in this repository, follow these steps:
         Data will be saved to specified output formats (e.g., CSV, JSON) based on the script configuration.
 
 # Acknowledgements
-The code used in this project is adapted from the tutorial available on YouTube. Credit goes to the original creator for providing valuable insights into web scraping techniques. The original code can be found on the GitHub repository.
+The code used in this project is adapted from the tutorial available on [YouTube](https://www.youtube.com/watch?v=d4iz2NrZVRg). Credit goes to the original creator for providing valuable insights into web scraping techniques. The original code can be found on the [GitHub repository](https://github.com/python-scrapy-playbook/basic-scrapy-project).
 
 
 
